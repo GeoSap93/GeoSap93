@@ -17,6 +17,6 @@ Hi there!
 
 💞️ I’m looking to built a new career in tech with interest in giving meaning through using data and visualization tools.
 
-📫 Find me in Linkdin! 
+📫 Find me in Linkedin! 
 
 
