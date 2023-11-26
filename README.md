@@ -6,7 +6,7 @@ Hi there!
 
 👀 BA (Hons):Early Childhood Studies
     MSc (Hons):Natural Sciences, Mathematics and ICT in Education
-  
+
 🌱RESEARCH/PUBLICATIONS
 -	Georgia Sapsani & Nikolaos Tselios, 2019. "Facebook Use, Personality Characteristics and Academic Performance: A Case Study," International Journal of Web-Based Learning and Teaching Technologies (IJWLTT), IGI Global, vol. 14(2), pages 1-14, April
 -	Dissertation/ Thesis (2015): Usage of Learning Analytics’ Techniques for the estimation of the academic performance in systems of handling the learning procedure
