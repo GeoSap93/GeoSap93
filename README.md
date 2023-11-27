@@ -4,7 +4,7 @@ Hi there!
 
 👀 I’m interested in a Learning Analysis career (Business Analyst, Learning Analyst, Data Scientist).
 
-💞️ I’m looking to built a new career in tech with interest in analysing data and using visualization tools (Tableau)
+💞️ I’m looking to built a new career in tech with interest in analysing data and using visualization tools (Tableau, Seaborn Python Library)
 
 🌱RESEARCH/PUBLICATIONS
 -	Georgia Sapsani & Nikolaos Tselios, 2019. "Facebook Use, Personality Characteristics and Academic Performance: A Case Study," International Journal of Web-Based Learning and Teaching Technologies (IJWLTT), IGI Global, vol. 14(2), pages 1-14, April
