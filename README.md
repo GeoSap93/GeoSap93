@@ -15,7 +15,7 @@ Hi there!
     
 🌱I am currently taken part in MOOC Challenges (CVs & Applications, Solve Problems with Python, Machine Learning).
 
-🌱 Proud myself in learning new languages. Fluent in English, Greek, Spanish
+🌱 Proud myself on learning new languages. Fluent in English, Greek, Spanish
 
 📫 Find me in Linkedin! 
 
