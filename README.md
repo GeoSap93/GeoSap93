@@ -2,7 +2,7 @@ Hi there!
 
 👩‍🏫 I am EYFS Lead / DSL looking into switcing careers!
 
-🥇 Currently a proud student in CFG Degree Summer Cohort 2024 (Data Science Stream - Degree & Masters). I’m interested in a Data Analysis carrer path (Business Analyst, Data Analyst, Data Scientist).
+🥇 Currently a proud student in CFG Degree Summer Cohort 2024 (Data Science Stream - Degree & Masters). I’m interested in a Data Analysis carrer path (Business Analyst, Data Analyst, Data Scientist, Machine Learning).
 
 💞️ I’m looking forward to building a new career in tech with interest in analysing data and using visualization tools (Tableau, Seaborn Python Library,Excel).
 
