@@ -1,22 +1,30 @@
-Hi there!
+Hi, Tech World! 👋
 
-👩‍🏫 I am EYFS Lead / DSL looking into switcing careers!
+👩‍🏫 About Me:
+I’m an experienced EYFS Lead & SLT, currently exploring a career switch into Data Analysis. I have a keen interest in roles such as Business Analyst, Data Analyst, Data Scientist, and Machine Learning Specialist.
 
-🥇 Currently a proud student in CFG Degree Summer Cohort 2024 (Data Science Stream - Degree & Masters). I’m interested in a Data Analysis carrer path (Business Analyst, Data Analyst, Data Scientist, Machine Learning).
+🥇 Recent Achievements:
+I am a proud graduate of the CodeFirstGirls Degree Summer Cohort 2024, where I earned a Data Science Degree and a Master's in Data in Business. You can explore my projects on my GitHub profile.
 
-💞️ I’m looking forward to building a new career in tech with interest in analysing data and using visualization tools (Tableau, Seaborn Python Library,Excel).
+💼 Career Goals:
+I am excited to build a new career in tech, with a particular focus on data analysis and storytelling through interactive visualizations.
 
-🌱RESEARCH/PUBLICATIONS
--	Georgia Sapsani & Nikolaos Tselios, 2019. "Facebook Use, Personality Characteristics and Academic Performance: A Case Study," International Journal of Web-Based Learning and Teaching Technologies (IJWLTT), IGI Global, vol. 14(2), pages 1-14, April
--	Dissertation/ Thesis (2015): Usage of Learning Analytics’ Techniques for the estimation of the academic performance in systems of handling the learning procedure
+🌱 Research/Publications:
+Georgia Sapsani & Nikolaos Tselios (2019). Facebook Use, Personality Characteristics and Academic Performance: A Case Study. International Journal of Web-Based Learning and Teaching Technologies (IJWLTT), IGI Global, vol. 14(2), pp. 1-14, April.
+Dissertation/Thesis (2015): Usage of Learning Analytics Techniques for the Estimation of Academic Performance in Systems of Handling the Learning Procedure.
 
-🌴 I have succesfully completed the Python and SQL course from the CodeFirstGirls.
-    Feel free to have a look on my work!
-    
-🌳I took part in MOOC Challenges (CVs & Applications, Solve Problems with Python, Machine Learning) and pride myself in being one of the three finalist in CV& Applications and Machine Learning presentations.
+🌴 Certifications & Courses:
+I have successfully completed courses in Python and SQL from CodeFirstGirls. Feel free to explore my work on GitHub!
 
-🧑‍🏫 Proud myself on learning new languages. Fluent in English, Greek, Spanish.
 
-📫 Find me in Linkedin! 
+🌳 I also participated in several MOOC challenges:
+        CVs & Applications: Finalist
+        Solve Problems with Python
+        Machine Learning: Finalist in presentations
+
+🧑‍🏫 Languages:
+I love learning new languages and am fluent in English, Greek, and Spanish.
+
+📫 Find me on LinkedIn: https://www.linkedin.com/in/georgia-sapsani-18b41bb2/ 
 
 
