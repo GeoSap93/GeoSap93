@@ -1,7 +1,7 @@
 Hi, Tech World! 👋
 
 👩‍🏫 About Me:
-I’m an experienced EYFS Lead & SLT, currently exploring a career switch into Data Analysis. I have a keen interest in roles such as Business Analyst, Data Analyst, Data Scientist, and Machine Learning Specialist.
+I’m an experienced EYFS Lead & SLT and Social Media & Website Coordinator, currently exploring a career switch into Data Analysis. I have a keen interest in roles such as Business Analyst, Data Analyst, Data Scientist, and Machine Learning Specialist.
 
 🥇 Recent Achievements:
 I am a proud graduate of the CodeFirstGirls Degree Summer Cohort 2024, where I earned a Data Science Degree and a Master's in Data in Business. You can explore my projects on my GitHub profile.
