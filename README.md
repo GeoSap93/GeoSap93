@@ -16,9 +16,9 @@ I have a particular interest in predictive modeling by utilising machine learnin
 🌴 Certifications: Data Science Nanodegree (Data for Business) sponsored by Code First Girls (https://codefirstgirls.com/)
 
 🌱 Research/Publications:
-Georgia Sapsani & Nikolaos Tselios (2019). Facebook Use, Personality Characteristics and Academic Performance: A Case Study. International Journal of Web-Based Learning and Teaching Technologies (IJWLTT), IGI Global, vol. 14(2), pp. 1-14, April.
+- Georgia Sapsani & Nikolaos Tselios (2019). Facebook Use, Personality Characteristics and Academic Performance: A Case Study. International Journal of Web-Based Learning and Teaching Technologies (IJWLTT), IGI     Global, vol. 14(2), pp. 1-14, April.
 
-Dissertation/Thesis (2015): Usage of Learning Analytics Techniques for the Estimation of Academic Performance in Systems of Handling the Learning Procedure.
+- Dissertation/Thesis (2015): Usage of Learning Analytics Techniques for the Estimation of Academic Performance in Systems of Handling the Learning Procedure.
 
 🧑‍🏫 Languages: English, Greek, and Spanish.
 
