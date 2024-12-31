@@ -20,5 +20,5 @@ I have a particular interest in predictive modeling by utilising machine learnin
 
 - Dissertation/Thesis (2015): Usage of Learning Analytics Techniques for the Estimation of Academic Performance in Systems of Handling the Learning Procedure.
 
-🧑‍🏫 Languages: English, Greek, and Spanish.
+🧑‍🏫 Languages: English (Fluent), Greek (Greek), Spanish (Fluent)
 
