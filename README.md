@@ -13,8 +13,9 @@ I have a keen interest in roles such as Data Analyst, Data Scientist and Machine
 I am excited to build a new career in tech, with a particular focus on data analysis and storytelling through interactive visualizations.
 I have a particular interest in predictive modeling by utilising machine learning (ML) models to forecast future trends.
 
-🌴 Certifications: Data Science Nanodegree (Data for Business) sponsored by Code First Girls (https://codefirstgirls.com/)
-    AWS Certified Cloud Practitioner (Issued March 2025 - Expires March 2028) 
+🌴 Certifications: 
+    ▶️ Data Science Nanodegree (Data for Business) sponsored by Code First Girls (https://codefirstgirls.com/)
+    ▶️ AWS Certified Cloud Practitioner (Issued March 2025 - Expires March 2028) 
 
 🌱 Research/Publications:
 - Georgia Sapsani & Nikolaos Tselios (2019). Facebook Use, Personality Characteristics and Academic Performance: A Case Study. International Journal of Web-Based Learning and Teaching Technologies (IJWLTT), IGI     Global, vol. 14(2), pp. 1-14, April.
