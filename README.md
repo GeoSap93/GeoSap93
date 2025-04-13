@@ -6,7 +6,7 @@ I have a keen interest in roles such as Data Analyst, Data Scientist and Machine
 
 🥇 Recent Achievements:
 1. I am a proud graduate of the CodeFirstGirls Degree Summer Cohort 2024.
-2. Currently studying towards the AWS Certified Cloud Practitioner CLF-C02 2025 cerification.
+2. I am committed to continuous learning and am currently preparing for the AWS AI Practitioner exam, having officially earned my AWS Cloud Practitioner certification.
 3. I serve as a Data Analyst in a charity, the International Humanity Foundation (https://ihfonline.org/), where I work to uncover hidden patterns and identify actionable insights that support their mission of assisting those in greatest need.
 
 💼 Career Goals:
